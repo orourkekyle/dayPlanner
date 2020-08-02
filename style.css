@@ -81,3 +81,7 @@ body {
   #save {
       background-color: green;
   }
+
+  #planner {
+      margin: 10px;
+  }
